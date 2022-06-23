@@ -13,7 +13,11 @@ Concepts that has been used in this project:
 > online video consultations with the best doctors in Pakistan. Their transparent and intuitive platform helps
 > you choose the right doctors by letting you check up on patient reviews, consultation fees, satisfaction
 > scores, and wait times. oladoc has already served over 15 million+ patients across the country and
-> counting.<br/><br/>
+> counting.
+![Capture](https://user-images.githubusercontent.com/59528492/175339332-227ad9b8-8d08-45ac-b64d-31352610179c.PNG)
+
+
+<br/><br/><br/>
 
 ## Hierarchy of the app:
    1. Admin
