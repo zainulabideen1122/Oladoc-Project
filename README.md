@@ -2,7 +2,7 @@
 
 This project is basically based on** CPP OOP (Object Oriented Programming). **
 Concepts that has been used in this project:
-  * i- Encapsulation
+  * i- Encapsulation *
   ii- Operator overloading
  iii- Composition and Aggregation
   iv- Inheritance
