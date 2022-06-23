@@ -1,6 +1,6 @@
 # Oladoc-Project
 
-This project is basically based on **CPP OOP (Object Oriented Programming).**
+This project is basically based on **CPP OOP (Object Oriented Programming).**  
 Concepts that has been used in this project:
    - Encapsulation 
    - Operator overloading
