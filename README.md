@@ -2,11 +2,11 @@
 
 This project is basically based on** CPP OOP (Object Oriented Programming). **
 Concepts that has been used in this project:
-  * i- Encapsulation *
+   i- Encapsulation 
   ii- Operator overloading
  iii- Composition and Aggregation
   iv- Inheritance
-   v- Abstraction *
+   v- Abstraction
    
 # What is Oladoc?
 > oladoc is a digital healthcare platform in Pakistan. It helps you find and instantly book appointments or
